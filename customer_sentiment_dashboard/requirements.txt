@@ -1,0 +1,13 @@
+streamlit>=1.37.0
+pandas>=2.0.0
+numpy>=1.24.0
+spacy>=3.7.4
+# Download model at runtime in code; alternatively preinstall:
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+transformers>=4.43.0
+torch>=2.3.0
+plotly>=5.22.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+wordcloud>=1.9.3
+pillow>=10.0.0
